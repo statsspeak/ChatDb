@@ -42,7 +42,7 @@ The LLM agent is built using Llama Index which is a data framework designed to f
 
 An illustration for the setup and working of the Data LLM AI Agent is shown below:
 
-![Illustration](RackMultipart20240211-1-dgvvei_html_27e6ef8ebcf43f23.png)
+![Illustration](assets/ChatDB Agent.drawio.svg)
 
 ## Benefits For Users
 
