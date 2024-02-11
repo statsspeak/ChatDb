@@ -31,6 +31,12 @@ Our demonstration harnessed 5 years of historical data, focusing on key Performa
 3. **County-Level Analysis:** Users had the ability to delve into specific counties and sub-counties, comparing performance and pinpointing areas requiring attention.
 4. **Time-Series Analysis:** ChatDB conducted thorough analyses of trends and patterns over time, enabling users to comprehend how KPIs have evolved over the past 5 years.
 
+![demo](assets/chat-db-demo.png)
+
+![demo](assets/chatdb-demo2.png)
+
+![demo](assets/chatdb-demo3.png)
+
 ## Technical Implementation
 
 The LLM agent is built using Llama Index which is a data framework designed to facilitate the integration of custom data sources with large language models (LLMs). When the Data LLM agent receives a query, it performs a sequence of steps:
@@ -42,7 +48,7 @@ The LLM agent is built using Llama Index which is a data framework designed to f
 
 An illustration for the setup and working of the Data LLM AI Agent is shown below:
 
-![Illustration](assets/ChatDB Agent.drawio.svg)
+![Illustration](assets/ChatDB-Agent.drawio.svg)
 
 ## Benefits For Users
 
